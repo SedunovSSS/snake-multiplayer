@@ -1,0 +1,11 @@
+{
+    "HOST": "0.0.0.0",
+    "PORT": 55555,
+    "WIDTH": 1000,
+    "HEIGHT": 1000,
+    "BLOCK_SIZE": 20,
+    "MAX_FPS": 15,
+    "APPLE_COUNT": 20,
+    "TIME_OUT_LOGIN": 1,
+    "TIME_OUT": null
+}
